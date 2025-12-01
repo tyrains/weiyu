@@ -1,2 +1,2 @@
-export const ADMIN_PASSWORD = 'hair118';
+export const ADMIN_PASSWORD = 'hairu118';
 export const STORAGE_KEY = 'whisper_wall_messages';
