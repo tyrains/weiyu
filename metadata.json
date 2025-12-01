@@ -1,0 +1,5 @@
+{
+  "name": "微语墙",
+  "description": "一个美观、极简的留言板应用，支持本地存储和管理员审核功能。",
+  "requestFramePermissions": []
+}
